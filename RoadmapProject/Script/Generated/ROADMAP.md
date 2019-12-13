@@ -186,17 +186,17 @@ Tapping on a link will take you to relevant materials.
         - [ ] WatchKit
     - [ ] `Computer Science knowledge`
         - [ ] [`Algorithms`](Resources/iOS_Developer/Computer_Science_knowledge/Algorithms/RESOURCES.md)
-            - [ ] `Sorting`
-            - [ ] `Graph Theory`
-                - [ ] Trees
-            - [ ] [`Strings`](Resources/iOS_Developer/Computer_Science_knowledge/Algorithms/Strings/RESOURCES.md)
+            - [x] `Sorting`
+            - [x] `Graph Theory`
+                - [x] Trees
+            - [x] [`Strings`](Resources/iOS_Developer/Computer_Science_knowledge/Algorithms/Strings/RESOURCES.md)
             - [ ] Greedy
             - [ ] Dynamic Programming
             - [ ] Bit Manipulation
-            - [ ] `Recursion`
-            - [ ] Game Theory
-            - [ ] NP Complete
-            - [ ] [`Big-O notation`](Resources/iOS_Developer/Computer_Science_knowledge/Algorithms/Big-O_notation/RESOURCES.md)
+            - [x] `Recursion`
+            - [x] Game Theory
+            - [x] NP Complete
+            - [x] [`Big-O notation`](Resources/iOS_Developer/Computer_Science_knowledge/Algorithms/Big-O_notation/RESOURCES.md)
         - [ ] `Abstract Data Types`
             - [x] `Stack`
             - [x] `Array`
