@@ -147,16 +147,16 @@ Tapping on a link will take you to relevant materials.
             - [ ] [Carthage](Resources/iOS_Developer/Practical_knowledge/Dependencies_management/Carthage/RESOURCES.md)
             - [ ] [Swift Package Manager](Resources/iOS_Developer/Practical_knowledge/Dependencies_management/Swift_Package_Manager/RESOURCES.md)
         - [ ] Project structure and File/Group organisation
-        - [ ] `Version Control Systems`
-            - [ ] [`Git`](Resources/iOS_Developer/Practical_knowledge/Version_Control_Systems/Git/RESOURCES.md)
+        - [x] `Version Control Systems`
+            - [x] [`Git`](Resources/iOS_Developer/Practical_knowledge/Version_Control_Systems/Git/RESOURCES.md)
         - [ ] Debugging
             - [ ] [Instruments](Resources/iOS_Developer/Practical_knowledge/Debugging/Instruments/RESOURCES.md)
             - [ ] Best practices
                 - [ ] Checklists
         - [ ] UX
         - [ ] `Caching and Persistency`
-            - [ ] [Core Data](Resources/iOS_Developer/Practical_knowledge/Caching_and_Persistency/Core_Data/RESOURCES.md)
-            - [ ] [Realm](Resources/iOS_Developer/Practical_knowledge/Caching_and_Persistency/Realm/RESOURCES.md)
+            - [x] [Core Data](Resources/iOS_Developer/Practical_knowledge/Caching_and_Persistency/Core_Data/RESOURCES.md)
+            - [x] [Realm](Resources/iOS_Developer/Practical_knowledge/Caching_and_Persistency/Realm/RESOURCES.md)
             - [ ] YAPDatabase
         - [ ] `Testing`
             - [ ] [`Unit Tests`](Resources/iOS_Developer/Practical_knowledge/Testing/Unit_Tests/RESOURCES.md)
@@ -168,10 +168,10 @@ Tapping on a link will take you to relevant materials.
             - [ ] Increase FPS
             - [ ] Decrease memory footprint
         - [ ] Code signing
-        - [ ] Tools
-            - [ ] IDE
-                - [ ] Xcode
-                    - [ ] [Interface Builder](Resources/iOS_Developer/Practical_knowledge/Tools/IDE/Xcode/Interface_Builder/RESOURCES.md)
+        - [x] Tools
+            - [x] IDE
+                - [x] Xcode
+                    - [x] [Interface Builder](Resources/iOS_Developer/Practical_knowledge/Tools/IDE/Xcode/Interface_Builder/RESOURCES.md)
             - [ ] Swiftlint
             - [ ] Sourcery
             - [ ] [Fastlane](Resources/iOS_Developer/Practical_knowledge/Tools/Fastlane/RESOURCES.md)
@@ -198,19 +198,19 @@ Tapping on a link will take you to relevant materials.
             - [ ] NP Complete
             - [ ] [`Big-O notation`](Resources/iOS_Developer/Computer_Science_knowledge/Algorithms/Big-O_notation/RESOURCES.md)
         - [ ] `Abstract Data Types`
-            - [ ] `Stack`
-            - [ ] `Array`
-            - [ ] `List`
-            - [ ] `Map`
-            - [ ] Multimap
-            - [ ] `Set`
-            - [ ] Multiset (Bag)
-            - [ ] `Graph`
-                - [ ] Tree
-            - [ ] `Queue`
-            - [ ] Priority Queue
-            - [ ] Double-ended priority queue
-            - [ ] Double-ended queue
+            - [x] `Stack`
+            - [x] `Array`
+            - [x] `List`
+            - [x] `Map`
+            - [x] Multimap
+            - [x] `Set`
+            - [x] Multiset (Bag)
+            - [x] `Graph`
+                - [x] Tree
+            - [x] `Queue`
+            - [x] Priority Queue
+            - [x] Double-ended priority queue
+            - [x] Double-ended queue
         - [ ] `System design`
             - [ ] [Problems](Resources/iOS_Developer/Computer_Science_knowledge/System_design/Problems/RESOURCES.md)
         - [ ] Programming Paradigms
