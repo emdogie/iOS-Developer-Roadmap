@@ -48,23 +48,23 @@ Tapping on a link will take you to relevant materials.
                 - [ ] [Race condition](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/Problems/Race_condition/RESOURCES.md)
                 - [ ] [Deadlock](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/Problems/Deadlock/RESOURCES.md)
                 - [ ] [Readers–writers problem](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/Problems/Readers–writers_problem/RESOURCES.md)
-        - [ ] `Cocoa Touch`
-            - [ ] [`UIKit`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/RESOURCES.md)
-                - [ ] [`UIApplication`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIApplication/RESOURCES.md)
+        - [x] `Cocoa Touch`
+            - [x] [`UIKit`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/RESOURCES.md)
+                - [x] [`UIApplication`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIApplication/RESOURCES.md)
                     - [ ] [`States`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIApplication/States/RESOURCES.md)
                     - [ ] [UIApplicationDelegate](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIApplication/UIApplicationDelegate/RESOURCES.md)
                 - [ ] [`UIViews`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIViews/RESOURCES.md)
                     - [x] [`UITableViews`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIViews/UITableViews/RESOURCES.md)
                     - [x] [`UICollectionViews`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIViews/UICollectionViews/RESOURCES.md)
-                - [ ] [Layers](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/Layers/RESOURCES.md)
-                - [ ] [`Layout`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/Layout/RESOURCES.md)
+                - [x] [Layers](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/Layers/RESOURCES.md)
+                - [x] [`Layout`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/Layout/RESOURCES.md)
                     - [ ] [`Frame-based`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/Layout/Frame-based/RESOURCES.md)
                     - [ ] [`Autolayout`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/Layout/Autolayout/RESOURCES.md)
-                        - [ ] [UIStackView](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/Layout/Autolayout/UIStackView/RESOURCES.md)
+                        - [x] [UIStackView](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/Layout/Autolayout/UIStackView/RESOURCES.md)
                 - [ ] [Animations](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/Animations/RESOURCES.md)
                 - [ ] [Transform](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/Transform/RESOURCES.md)
-                - [ ] [`Navigation`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/Navigation/RESOURCES.md)
-                - [ ] [`UIViewController`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIViewController/RESOURCES.md)
+                - [x] [`Navigation`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/Navigation/RESOURCES.md)
+                - [x] [`UIViewController`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIViewController/RESOURCES.md)
                     - [ ] [`Lifecycle`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIViewController/Lifecycle/RESOURCES.md)
             - [ ] [`Foundation`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/RESOURCES.md)
                 - [ ] [`Notifications vs Delegation vs Observing`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Notifications_vs_Delegation_vs_Observing/RESOURCES.md)
@@ -73,8 +73,8 @@ Tapping on a link will take you to relevant materials.
                 - [ ] [`Serialization`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/RESOURCES.md)
                     - [ ] [NSCoding](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/NSCoding/RESOURCES.md)
                     - [ ] [`Codable`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/Codable/RESOURCES.md)
-                    - [ ] [`JSON`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/JSON/RESOURCES.md)
-                    - [ ] [XML](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/XML/RESOURCES.md)
+                    - [x] [`JSON`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/JSON/RESOURCES.md)
+                    - [x] [XML](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/XML/RESOURCES.md)
                     - [ ] [Protobuf](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/Protobuf/RESOURCES.md)
             - [ ] [UserNotifications](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UserNotifications/RESOURCES.md)
             - [ ] [Core Location](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Core_Location/RESOURCES.md)
@@ -98,9 +98,9 @@ Tapping on a link will take you to relevant materials.
                     - [ ] Receptionist
                     - [ ] Singleton
                     - [ ] Template Method
-                    - [ ] MVC
+                    - [x] MVC
                 - [ ] [`Architectural`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/RESOURCES.md)
-                    - [ ] [`MVC`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/MVC/RESOURCES.md)
+                    - [x] [`MVC`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/MVC/RESOURCES.md)
                     - [ ] [`MVVM`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/MVVM/RESOURCES.md)
                     - [ ] `MVP`
                     - [ ] [`Clean architecture`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/RESOURCES.md)
@@ -143,7 +143,7 @@ Tapping on a link will take you to relevant materials.
                     - [ ] Service Locator
                 - [ ] [Protocol-Oriented Programming](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Principles/Protocol-Oriented_Programming/RESOURCES.md)
         - [ ] `Dependencies management`
-            - [ ] [Cocoapods](Resources/iOS_Developer/Practical_knowledge/Dependencies_management/Cocoapods/RESOURCES.md)
+            - [x] [Cocoapods](Resources/iOS_Developer/Practical_knowledge/Dependencies_management/Cocoapods/RESOURCES.md)
             - [ ] [Carthage](Resources/iOS_Developer/Practical_knowledge/Dependencies_management/Carthage/RESOURCES.md)
             - [ ] [Swift Package Manager](Resources/iOS_Developer/Practical_knowledge/Dependencies_management/Swift_Package_Manager/RESOURCES.md)
         - [ ] Project structure and File/Group organisation
